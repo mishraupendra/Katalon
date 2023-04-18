@@ -1,0 +1,22 @@
+.svn/
+.settings
+.classpath
+.project
+Reports/
+/libs/Temp*.groovy
+*.class
+*.swp
+
+# mike added
+hs_err_pid*
+*.zip
+*.log
+bin/
+config/
+Libs/
+!/Libs/internal
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/

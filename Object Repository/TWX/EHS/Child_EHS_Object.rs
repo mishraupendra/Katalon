@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Child_EHS_Object</name>
+   <tag></tag>
+   <elementGuidId>84fd3ab9-f0e0-44f8-ab59-f07cfa5d6f20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'label' and @ref_element = 'Object Repository/TWX/EHS/Parent_EHS_Object' and @ref_element_is_shadow_root = 'true']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/ptcs-menu-submenu//ptcs-vbar/ptcs-menu-item[3]//ptcs-label//div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>42796f7b-fd3d-4bf0-aa85-0aacaa6ce3de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/TWX/EHS/Parent_EHS_Object</value>
+      <webElementGuid>0bd145d2-f8bf-44f7-8e62-e62a361f58ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>67ec34af-c614-4b93-8ffb-34817e63dec1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

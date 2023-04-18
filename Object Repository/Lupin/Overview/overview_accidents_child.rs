@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>overview_accidents_child</name>
+   <tag></tag>
+   <elementGuidId>625ed0a3-b3d5-484a-9441-e2a1595cf9bc</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ptcs-v-scroller2[id=chunker]/div/div/ptcs-div/ptcs-div/ptcs-label/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//ptcs-div[contains(@class, 'cell')]/ptcs-label/div/div[count(. | //*[@ref_element = 'Object Repository/Lupin/Overview/overview_accidents_SDOM' and @ref_element_is_shadow_root = 'true']) = count(//*[@ref_element = 'Object Repository/Lupin/Overview/overview_accidents_SDOM' and @ref_element_is_shadow_root = 'true'])]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ptcs-v-scroller2[@id=&quot;chunker&quot;]/div/div/ptcs-div/ptcs-div/ptcs-label/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4c1c7a67-cd89-4220-a925-c2c2ca70bf4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>//*[contains(text(), &quot;Total Accidents&quot;)]</value>
+      <webElementGuid>9b24db99-ba50-4a32-a592-be422f536d5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>ptcs-v-scroller2[id=chunker]/div/div/ptcs-div/ptcs-div/ptcs-label/div/div</value>
+      <webElementGuid>96112c67-a3ee-41a4-b0f9-cc9eae28162f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ptcs-div[contains(@class, 'cell')]/ptcs-label/div/div</value>
+      <webElementGuid>5ff5c890-b470-4cd2-9ac3-e793a171fb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Lupin/Overview/overview_accidents_SDOM</value>
+      <webElementGuid>89ec960b-5612-4edb-9f50-3b6cb0687d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d5e193cc-5530-4859-8292-c58e04d9d87a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

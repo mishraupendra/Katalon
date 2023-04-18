@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>TWX_Dev</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://mdpm-qa.lupin.com/Thingworx'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lupin@11223344'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Lupin.CXO'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'client-dev.cloud.thingworx.com:443/Thingworx/Things'</initValue>
+      <name>url2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'client-dev.cloud.thingworx.com:8443/Thingworx/Things'</initValue>
+      <name>url_old</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Dev Environment key for Katalon Admin</description>
+      <initValue>''</initValue>
+      <name>appkey_Katalon_Admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sumeetbobhate@lupin.com'</initValue>
+      <name>ad_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Kalypso@123'</initValue>
+      <name>ad_password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

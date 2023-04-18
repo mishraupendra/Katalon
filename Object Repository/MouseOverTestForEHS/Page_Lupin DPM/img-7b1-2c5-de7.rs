@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img-7b1-2c5-de7</name>
+   <tag></tag>
+   <elementGuidId>68879457-ea7c-436c-a2e5-390cfdee12af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://mdpm-qa.lupin.com/Thingworx/MediaEntities/Lupin.Functions.IMG')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div[alt=&quot; &quot;] > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1c0a36fc-6843-41a6-8491-f05127da702d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Thingworx/MediaEntities/Lupin.Functions.IMG</value>
+      <webElementGuid>61b35c4d-7fc0-4c31-abc6-4c0960abd4b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[1]/img[1]</value>
+      <webElementGuid>e0f5038f-4d7f-42a8-878f-054829cabe50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/MouseOverTestForEHS/Page_Lupin DPM/ptcs-icon-bb0-7b1-2c5</value>
+      <webElementGuid>7c5e0473-4ad0-42f7-be4d-22a64e9a2d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9ab3c974-2b2a-465f-974e-981bb08cc17b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://mdpm-qa.lupin.com/Thingworx/MediaEntities/Lupin.Functions.IMG')]</value>
+      <webElementGuid>947fa291-fcac-4dc2-bdd1-b52863dde0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/Thingworx/MediaEntities/Lupin.Functions.IMG']</value>
+      <webElementGuid>f83bd982-3740-4259-b2db-83348bd5e3f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

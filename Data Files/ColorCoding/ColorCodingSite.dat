@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>ColorCodingSite</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d7ff8f2d-ff23-468a-85f7-9e0030483f6d</dataFileGUID>
+   <dataSourceUrl>C:\Project\New folder\Katalon_TWX_02F\Katalon_TWX_02F\Katalon_TWX\Data Files\ColorCoding\SiteColorCoding.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>ANK</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
